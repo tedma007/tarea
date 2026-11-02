@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(63, 74, 94);
+}
+div{
+    width: 100%; 
+}
+.cabeza{
+    display: flex;
+    height: 140px;
+    text-align: center;
+    background-color: black;
+    color: white;
+   
+}
+.cuerpo{
+    display: flex;
+}
+.img-cuerpo1{
+    height: 580px;
+    text-align: center;
+}
+.img-cuerpo2{
+    height: 580px;
+    text-align: center;
+}
+.listas{
+    height: 580px;
+    text-align: center;
+    color: white;
+    
+}
+.titulo{
+    padding: 5px;
+    border: 5px solid black;
+    height: 80px;
+    background-color: rgb(124, 54, 16);
+}
+a{
+    color: gold;
+}

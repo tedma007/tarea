@@ -1,0 +1,58 @@
+body{
+    background-color:  #1B2838;
+}
+.containheader{
+   padding: 5px;
+   background-color: #324a68;
+   color: white;
+   border: 1px solid black;
+}
+.menus{
+   display: flex;
+   width: 50%;
+   text-align: center;
+   background-color: #324a68;
+   border: 1px solid black;
+   padding: 15px;
+}
+.noticias{
+    background-color: white;
+}
+.evento-1{
+   text-align: center;
+}
+.img1{
+    height: 100px;
+}
+.evento-2{
+   text-align: center;
+}
+.img2{
+    height: 100px;
+}
+header{
+    height: 50px;
+}
+.boton1{
+    width:250px;
+    text-align: center;
+    border: 1px solid gold;
+}
+.boton2{
+    width:250px;
+    text-align: center;
+    border: 1px solid gold;
+}
+.boton3{
+    width:250px;
+    text-align: center;
+    border: 1px solid gold;
+}
+.title{
+    text-align: center;
+    background-color: #324a68;
+    color: white;
+}
+a{
+    color: gold;
+}

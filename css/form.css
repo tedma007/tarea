@@ -1,0 +1,22 @@
+body{
+    background-color:  #1B2838;
+}
+.container{
+    background-color: #1B2838;
+    display:flex;
+}
+.datos{
+    width: 50%;
+    text-align: center;
+    background-color: white;
+    border: 2px solid black;
+}
+.whoami{
+    text-align: center;
+    background-color: rgb(143, 56, 25);   
+    color: white;
+}
+input{
+    width: 50%;
+    padding: 5px;
+}
